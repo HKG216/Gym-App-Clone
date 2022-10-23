@@ -1,8 +1,11 @@
 # gymapp
 
-A new Flutter project.
 
-## Getting Started
+
+## Gym Application Clone.
+![alt text](https://github.com/HamseAbdi03/Gym-App-Clone/blob/main/images/preview.jpg?raw=true)
+
+
 
 This project is a starting point for a Flutter application.
 
